@@ -5,6 +5,5 @@
     <title>首页</title>
 </head>
 <body>
-    这是论坛的首页。banana
 </body>
 </html>
