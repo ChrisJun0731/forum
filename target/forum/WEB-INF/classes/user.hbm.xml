@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.zj.forum.domain">
+    <class name="User" table="user">
+        <id name="id" column="userId">
+            <generator class="increment"/>
+        </id>
+        <property name="userName" column="usernanme"/>
+    </class>
+
+</hibernate-mapping>

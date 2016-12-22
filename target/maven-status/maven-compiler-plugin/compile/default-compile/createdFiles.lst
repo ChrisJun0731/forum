@@ -1,0 +1,8 @@
+com\zj\forum\dao\BaseDao.class
+com\zj\forum\web\LoginController.class
+com\zj\forum\domain\BaseDomain.class
+com\zj\forum\domain\User.class
+com\zj\forum\service\UserService.class
+com\zj\forum\web\RegisterController.class
+com\zj\forum\dao\UserDao.class
+com\zj\forum\dao\LoginLogDao.class
